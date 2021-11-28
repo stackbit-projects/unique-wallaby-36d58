@@ -1,6 +1,6 @@
 {
     "title": "Stackbit App Theme",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
