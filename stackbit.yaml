@@ -466,7 +466,6 @@ models:
           - stackbit_page_meta
         label: Seo
     labelField: title
-    description: uuu
   hero_section:
     type: object
     label: Hero section
